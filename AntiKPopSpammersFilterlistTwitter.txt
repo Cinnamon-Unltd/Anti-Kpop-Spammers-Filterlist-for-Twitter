@@ -1,5 +1,5 @@
 [Adblock Plus 3.4]
-! Title: 🪑 Anti-'K-pop spammers on Twitter' List
+! Title: Anti-K-pop spammers on Twitter Fork List
 ! Version: v1.01 Alpha
 ! Expires: 3 days
 ! Description: This list is a fork of DandelionSprouts' AntiKpopSpammersTwitter updated with more K-pop artists and related stuff.
