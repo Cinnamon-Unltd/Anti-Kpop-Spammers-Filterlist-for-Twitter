@@ -51,3 +51,5 @@ twitter.com#?#article:-abp-contains(/b.t.s/i)
 twitter.com#?#article:-abp-contains(/bt.s/i)
 twitter.com#?#article:-abp-contains(ᴴᵒˢᵉᵒᵏ)
 twitter.com#?#article:-abp-contains(/hoseok/i)
+twitter.com#?#article:-abp-contains(¹³₇)
+
