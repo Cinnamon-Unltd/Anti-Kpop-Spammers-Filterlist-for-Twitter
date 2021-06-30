@@ -79,3 +79,4 @@ twitter.com#?#article:-abp-contains(/k-popies/i)
 twitter.com#?#article:-abp-contains(/abusodeARMY/i)
 twitter.com#?#article:-abp-contains(/TO1_offcl/i)
 twitter.com#?#article:-abp-contains(/TO1_members/i)
+twitter.com#?#article:-abp-contains(/dahyun/i)}
