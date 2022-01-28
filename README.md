@@ -7,6 +7,7 @@ To add this filter to your adblocker, follow the instructions on the wiki [here]
 
 Filterlist URL:
 https://raw.githubusercontent.com/Cinnamon-Unltd/Anti-Kpop-Spammers-Filterlist-for-Twitter/main/AntiKPopSpammersFilterlistTwitter.txt
+
 __
 
 Disclaimer: We just don't want K-Pop in random trending hashtags and in posts that have nothing to do with K-Pop. We have nothing personal against K-Pop.
